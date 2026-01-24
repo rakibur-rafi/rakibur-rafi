@@ -1,15 +1,72 @@
+# Mohammad Rakibur Rahaman
+**`CSE Undergraduate`** 
 
-<h1 align="center">Hi , I'm Mohammad Rakibur Rahaman</h1>
-<h3 align="center">Frontend Developer | React</h3>
-<p align="center">CSE Undergraduate from Bangladesh</p>
+## About Me
+- I build visually stunning web applications
+- Expertise in MERN stack
+- Currently studying at Premier University, Chattogram
+
+## Skill stack
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,mongodb,express,react,nodejs,javascript,figma,tailwindcss&theme=light)](https://skillicons.dev)
+
+**Also comfortable with**: MySQL, CI/CD pipelines, Kotlin, Firebase
+
+---
+<!--
+## Projects - showcase
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+             alt="DeepSeek AI Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>DeepSeek AI Chatbot</b><br/>
+      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      <br/>
+      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
+        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
+             alt="CI/CD Pipeline Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Cloud CI/CD Pipeline</b><br/>
+      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      <br/>
+      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
+        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
+             alt="VPC Networking Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Secure AWS VPC</b><br/>
+      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
+      <br/>
+      <sub>Tags: Networking, AWS, Security</sub>
+    </td>
+  </tr>
+</table>
+
+---
+-->
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/1200x/72/8c/71/728c71c853d17c2dcc00abe50477ae24.jpg"/>
+## Links
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rakiburrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakiburrafi" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/rakiburrafi" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
