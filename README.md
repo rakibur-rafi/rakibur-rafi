@@ -8,9 +8,9 @@
 
 ## Skill stack
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,mongodb,express,react,nodejs,javascript,figma,tailwindcss&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,mysql,mongodb,express,react,nodejs,javascript,figma,tailwindcss&theme=light)](https://skillicons.dev)
 
-**Also comfortable with**: MySQL, CI/CD pipelines, Kotlin, Firebase
+**Also comfortable with**: Firebase, AI/ML
 
 ---
 <!--
