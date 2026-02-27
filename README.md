@@ -69,6 +69,6 @@
 <a href="https://www.linkedin.com/in/rakiburrafi" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="rakibur.vercel.app" target="blank">
+<a href="https://rakibur.vercel.app/" target="blank">
   <img src="https://skillicons.dev/icons?i=vercel" alt="LinkedIn" />
 </a>
