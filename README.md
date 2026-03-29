@@ -8,9 +8,11 @@
 
 ## Skill stack
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,mysql,mongodb,express,react,nodejs,javascript,figma,tailwindcss&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,mysql,mongodb,express,react,nodejs,javascript,tailwindcss&theme=light)](https://skillicons.dev)
 
-**Also comfortable with**: Firebase, PostgreSQL
+**Also familiar with**: 
+
+[![Additional Skills](https://skillicons.dev/icons?i=postgres,firebase,&theme=light)](https://skillicons.dev)
 
 ---
 <!--
@@ -70,5 +72,5 @@
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://rakibur.vercel.app/" target="blank">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="LinkedIn" /> 
 </a>
