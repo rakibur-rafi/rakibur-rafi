@@ -1,4 +1,4 @@
-<img src="https://github.com/rakibur-rafi/rakibur-rafi/blob/main/banner/Mohamma%20Rakibur%20Rahaman%20(1).png"/>
+<img src="https://github.com/rakibur-rafi/rakibur-rafi/blob/main/banner/Mohamma%20Rakibur%20Rahaman%20(2).png"/>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -7,7 +7,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=24&duration=4000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Frontend+Enthusiast;MERN"
+      srcset="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=24&duration=4000&pause=1000&color=0ef&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Frontend+Enthusiast;MERN"
     />
     <img
       src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=24&duration=4000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Frontend+Enthusiast;MERN"
@@ -69,7 +69,7 @@
 <p align="left">
   <img src="https://cdn.simpleicons.org/react" alt="React" width="48" height="48" hspace="8"/>
   <img src="https://cdn.simpleicons.org/nodedotjs" alt="Nodejs" width="48" height="48" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/express" alt="Express" width="48" height="48" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/express/000/FFFFFF" alt="Express" width="48" height="48" hspace="8"/>
 </p>
 
 ### Database
@@ -86,7 +86,7 @@
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/git" alt="Git" width="48" height="48" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/github" alt="Github" width="48" height="48" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/github/000/FFFFFF" alt="Github" width="48" height="48" hspace="8"/>
   <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="48" height="48" hspace="8"/>
   <img src="https://cdn.simpleicons.org/ubuntu" alt="ubuntu" width="48" height="48" hspace="8"/>
 </p>
@@ -135,4 +135,8 @@
 </p>
 
 <br>
+
+## Have a Look
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
