@@ -1,3 +1,5 @@
+<img src="https://github.com/rakibur-rafi/rakibur-rafi/blob/main/banner/Mohamma%20Rakibur%20Rahaman%20(1).png"/>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi I am Mohammad Rakibur Rahaman</h1></summary>
@@ -115,7 +117,7 @@
 
 ## Github Contributions
 
-<p align="center">
+<p align="left">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
