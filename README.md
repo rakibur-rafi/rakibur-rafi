@@ -1,19 +1,48 @@
-<div align="center">
-  <h1>
-    Mohammad Rakibur Rahaman
-  </h1>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi I am Mohammad Rakibur Rahaman</h1></summary>
+    <p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=24&duration=4000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Frontend+Enthusiast;MERN"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=24&duration=4000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Frontend+Enthusiast;MERN"
+      alt="Typing SVG"
+    />
+  </picture>
+</p>
+  </ul>
 </div>
+<br><br>
 
-## About Me
 
-- Hi, I am **Rakib**
-- Completing my BSc in CSE at **Premier University**, Chattogram
-- Primarily working on the **MERN** Stack (React.js, Node.js, Express.js & MongoDB)
-- Also familiar with **FastAPI**, **PostgreSQL** & **Firebase** for backend development
-- Currently learning **Zustand**, **Next.js** & **Redis**
-- Feel free to reach out to me via [**Email**](mailto:rakibur8408@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/rakiburrafi/)
+- 👋 Hi, I am **Rakib**
+- 🎓 Completing my BSc in CSE at **Premier University**, Chattogram
+- 💻 Primarily working on the **MERN** Stack (React.js, Node.js, Express.js & MongoDB)
+- 🔧 Also familiar with **FastAPI**, **PostgreSQL** & **Firebase** for backend development
+- 🌱 Currently learning **Zustand**, **Next.js** & **Redis**
+- 📫 Feel free to reach out to me via [**Email**](mailto:rakibur8408@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/rakiburrafi/)
 
-## Tech stack
+<br>
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rakiburrafi/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+       width="48" height="48" alt="LinkedIn">
+  </a>
+
+  <a href="https://dev.to/rakiburrafi" target="_blank">
+    <img src="https://cdn.simpleicons.org/devdotto/000/FFFFFF" alt="CSS3" width="48" height="48" hspace="8"/>
+  </a>
+  
+</p>
+<br>
+
+## Tech Stack
 
 ### Languages
 <p align="left">
@@ -64,62 +93,44 @@
 <p align="left">
   <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="48" height="48" hspace="8"/>
 </p>
-<!--
-## Projects - showcase
 
+<br>
+
+## Github Stats
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
-             alt="DeepSeek AI Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+    <td>
+      <a href="https://github.com/rakibur-rafi">
+        <img src="https://github-stats-extended.vercel.app/api?username=rakibur-rafi&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=default_repocard" />
       </a>
-      <br/>
-      <b>DeepSeek AI Chatbot</b><br/>
-      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
-      <br/>
-      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
-             alt="CI/CD Pipeline Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=rakibur-rafi&short_numbers=true&mode=weekly" />
       </a>
-      <br/>
-      <b>Cloud CI/CD Pipeline</b><br/>
-      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
-      <br/>
-      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
-        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
-             alt="VPC Networking Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Secure AWS VPC</b><br/>
-      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
-      <br/>
-      <sub>Tags: Networking, AWS, Security</sub>
     </td>
   </tr>
 </table>
+<br>
 
----
--->
+## Github Contributions
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/rakibur-rafi/rakibur-rafi/blob/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.com/rakibur-rafi/rakibur-rafi/blob/output/github-snake.svg"
+    />
+    <img
+      src="https://github.com/rakibur-rafi/rakibur-rafi/blob/output/github-snake.svg"
+      alt="GitHub contribution snake"
+    />
+  </picture>
+</p>
 
-## Links
+<br>
 
-<a href="https://www.linkedin.com/in/rakiburrafi" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://rakibur.vercel.app/" target="blank">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="LinkedIn" /> 
-</a>
