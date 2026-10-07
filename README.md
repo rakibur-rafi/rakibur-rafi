@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="mailto:rakibur8408@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/rakiburrafi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/rakibur-rahaman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://dev.to/rakiburrafi"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"/></a>
 </p>
 
@@ -32,7 +32,7 @@
 - 💻 Primarily working on the **MERN** stack (React.js, Node.js, Express.js & MongoDB)
 - 🔧 Also familiar with **FastAPI**, **PostgreSQL** & **Firebase** for backend development
 - 🌱 Currently learning **Zustand**, **Next.js** & **Redis**
-- 📫 Feel free to reach out via [**Email**](mailto:rakibur8408@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/rakiburrafi/)
+- 📫 Feel free to reach out via [**Email**](mailto:rakibur8408@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/rakibur-rahaman/)
 
 ---
 
