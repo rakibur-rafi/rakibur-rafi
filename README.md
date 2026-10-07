@@ -12,7 +12,7 @@
     />
     <img
       src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=24&duration=4000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Frontend+Enthusiast;MERN"
-      alt="Full Stack Web Developer | Frontend Enthusiast | MERN"
+      alt="Full Stack Web Developer | Frontend Enthusiast | NextJS"
     />
   </picture>
 </p>
