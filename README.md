@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rakibur-rafi/rakibur-rafi/blob/main/banner/Mohamma%20Rakibur%20Rahaman%20(2).png?raw=true" alt="Mohammad Rakibur Rahaman banner" width="100%"/>
+  <img src="https://github.com/rakibur-rafi/rakibur-rafi/blob/main/banner/banner.png?raw=true" alt="Mohammad Rakibur Rahaman banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I am Mohammad Rakibur Rahaman 👋</h1>
