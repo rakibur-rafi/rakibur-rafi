@@ -2,7 +2,7 @@
   <img src="https://github.com/rakibur-rafi/rakibur-rafi/blob/main/banner/banner.png?raw=true" alt="Mohammad Rakibur Rahaman banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I am Mohammad Rakibur Rahaman 👋</h1>
+<h1 align="center">Hi, I am Mohammad Rakibur Rahaman</h1>
 
 <p align="center">
   <picture>
@@ -25,18 +25,18 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 👋 Hi, I am **Rakib**
-- 🎓 Completing my BSc in CSE at **Premier University**, Chattogram
-- 💻 Primarily working on the **MERN** stack (React.js, Node.js, Express.js & MongoDB)
-- 🔧 Also familiar with **FastAPI**, **PostgreSQL** & **Firebase** for backend development
-- 🌱 Currently learning **Zustand**, **Next.js** & **Redis**
-- 📫 Feel free to reach out via [**Email**](mailto:rakibur8408@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/rakibur-rahaman/)
+- Hi, I am **Rakib**
+- Completing my BSc in CSE at **Premier University**, Chattogram
+- Primarily working with **Next.js**, **React.js** and **TypeScript** for frontend development.
+- Also familiar with **PHP** and **ASP.NET**
+- Currently learning **Zustand** & **Redis**
+- Feel free to reach out via [**Email**](mailto:rakibur8408@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/rakibur-rahaman/)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -79,7 +79,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/rakibur-rafi">
@@ -92,7 +92,7 @@
 
 ---
 
-## 🐍 GitHub Contributions
+## GitHub Contributions
 
 <p align="center">
   <picture>
@@ -113,10 +113,10 @@
 
 ---
 
-## 💬 Have a Look
+## Have a Look
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Readme Quotes"/>
   </a>
 </p>
