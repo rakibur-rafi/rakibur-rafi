@@ -30,8 +30,8 @@
 - Hi, I am **Rakib**
 - Completing my BSc in CSE at **Premier University**, Chattogram
 - Primarily working with **Next.js**, **React.js** and **TypeScript** for frontend development.
+- and working with Node.js and Express.js for backend development.
 - Also familiar with **PHP** and **ASP.NET**
-- Currently learning **Zustand** & **Redis**
 - Feel free to reach out via [**Email**](mailto:rakibur8408@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/rakibur-rahaman/)
 
 ---
